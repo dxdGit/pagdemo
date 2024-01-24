@@ -1,0 +1,16 @@
+PODS:
+  - libpag (4.3.47)
+
+DEPENDENCIES:
+  - libpag (~> 4.3.45)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - libpag
+
+SPEC CHECKSUMS:
+  libpag: 739257b3e07f4d29e1be1d965ee5edaabfe8ada4
+
+PODFILE CHECKSUM: 50600d72596b12fc6d69d06a62ffacf4aac3a207
+
+COCOAPODS: 1.14.3
